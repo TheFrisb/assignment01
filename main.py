@@ -1,5 +1,5 @@
 def div(num1, num2):
-    return num2 / num1
+    return num1 / num2
 
 def main():
     print('This program will do some calculation on two user-entered numbers!')
